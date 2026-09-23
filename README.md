@@ -1,0 +1,2 @@
+# Dinh-Ninh-README
+My name is Dinh, and i'm from Saigon, Vietnam. I'm a  Strategic Finance Manager recognized for delivering results with efficiency and precision. Experienced in financial analysis, budgeting, risk assessment, and strategic planning to support growth and long-term sustainability. Strong analytical, leadership, and problem-solving skills.  Currently, pursuing a MBA degree to further enhance strategic and financial expertise.
