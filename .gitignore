@@ -1,32 +1,19 @@
-# Operating system files
+# Office and OS temp files
+~$*.xlsx
+~$*.xlsm
+~$*.docx
+~$*.pptx
 .DS_Store
 Thumbs.db
-Desktop.ini
 
-# Windows temporary files
+# Editor backups
 *.tmp
-*.temp
-
-# Editor and IDE files
-.vscode/
-.idea/
-
-# Temporary files
 *.bak
-*.swp
-*.swo
+*~
 
-# Local environment files
+# Never publish
 .env
-.env.*
-
-# Python cache files
-__pycache__/
-*.py[cod]
-
-# Node.js dependencies
-node_modules/
-
-# Build files
-dist/
-build/
+*.key
+*.pem
+secrets/
+private/
