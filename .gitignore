@@ -1,0 +1,32 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Windows temporary files
+*.tmp
+*.temp
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+
+# Local environment files
+.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Node.js dependencies
+node_modules/
+
+# Build files
+dist/
+build/
