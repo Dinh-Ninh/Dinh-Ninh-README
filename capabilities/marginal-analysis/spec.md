@@ -234,7 +234,9 @@ LABOR\_CHECK: Whether the labor constraints are satisfied.
 
 \## Audit findings
 
-Added AFTER the build. For each check: what you checked, what you found, what
+The first Solver run (beginning at 0/0/0) resulted in a target allocation of 10/20/30 and an estimated profit of $42,761.66. The second Solver run (beginning at 20/0/0), was unable to pass validation and is currently unresolved.
 
-you did about it.
+Everything else passed.
+
+
 
