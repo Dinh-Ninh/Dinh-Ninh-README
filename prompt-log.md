@@ -8,7 +8,7 @@
 
 **What was wrong:** The initial `AGENTS.md` and `CLAUDE.md` drafts did not fully match the required repository conventions.
 
-**How it was caught:** I reviewed the files against the portfolio repository and AI-conventions guidelines and corrected the files.**How it was caught:** I reviewed the files against the portfolio repository and AI-conventions guidelines and corrected the files.
+**How it was caught:** I reviewed the files against the portfolio repository and AI-conventions guidelines and corrected the files.
 
 ## 2026-11-09 – Stage 3 economic analysis and recommendation
 
